@@ -1,56 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ROJAN27</title>
-    <link rel="me" href="https://nso.group/@xyrdesktop">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Architects+Daughter|Source+Code+Pro" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400i" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <style type="text/css">
-      body {
-        font-family: 'Ubuntu', sans-serif;
-        background-color: black;
-        color: #ecf0f1;
-        margin: 0;
-        padding: 0;
-        overflow: hidden; /* Prevent scrollbars */
-      }
-      a {
-        color: #ecf0f1;
-      }
-      #title {
-        font-size: 70px;
-        line-height: 10px;
-        font-family: 'Architects Daughter', cursive;
-        margin-bottom: 32px;
-      }
-      h2 {
-        margin-top: 2px;
-        margin-bottom: 2px;
-      }
-      #overlay {
-        position: absolute;
-        margin-left: 5%;
-        margin-top: 2%;
-        z-index: 10; /* Ensures content appears above starfield */
-      }
-      #supersmall {
-        padding-top: 10px;
-        font-family: 'Crimson Text', serif;
-        font-size: 14px;
-        max-width: 50%;
-        margin-bottom: 50px;
-      }
-      small {
-        margin-top: 0px;
       }
       #starfield {
-        position: absolute;
+        position# Hi, I'm KATX
+
+> **Lathe & Shaper IRL**  
+> **Code & Editing in the Matrix**  
+> Lathe pro. Code geek. #TechMeetsMetal
+
+---
+
+<div align="center">
+  <a href="mailto:katxmandu@duck.com">
+    <img src="https://img.shields.io/badge/email-rojanthapa27%40gmail.com-blue?logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/rojanthapa27">
+    <img src="https://img.shields.io/badge/twitter-@rojanthapa27-1da1f2?logo=twitter" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/xyrdesktop">
+    <img src="https://img.shields.io/badge/github-xyrdesktop-333?logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://nso.group/@xyrdesktop">
+    <img src="https://img.shields.io/badge/mastodon-xyrdesktop-6364ff?logo=mastodon" alt="Mastodon"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rojanthapa">
+    <img src="https://img.shields.io/badge/linkedin-rojanthapa-blue?logo=linkedin" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+> _"... he was wise, but was not. As a result, I became hateful to him and to many of those present; and so, as I went away, I thought to myself, ‘I am wiser than this man: neither of us probably knows anything worthwhile, but he thinks he knows something when he does not, whereas when I do not know, neither do I think I know; so I am likely to be wiser than he to this small extent, that I do not think I know what I do not know.’"_
+
+---
+
+<div align="center">
+
+© 1998-2025 — Some rights reserved.
+
+</div>
+
+ absolute;
         top: 0;
         left: 0;
         width: 100%;
